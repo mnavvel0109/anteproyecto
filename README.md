@@ -28,7 +28,7 @@
 
 **7. Optimizar para SEO:** Para que el sitio web aparezca en los resultados de búsqueda de Google, es importante optimizar la web para SEO. Puedo hacer esto utilizando herramientas como Yoast SEO para WordPress. Este es un proceso bastante complicado ya que tenemos que competir con tienda de ropa a nivel nacional.
 
-**8. Agregar contenido y comenzar a promocionar:** Una vez que tu sitio web esté configurado, es hora de agregar contenido y comenzar a promocionar el sitio en las redes sociales y en otros canales de marketing.
+**8. Agregar contenido y comenzar a promocionar:** Una vez que el sitio web esté configurado, es hora de agregar contenido y comenzar a promocionar el sitio en las redes sociales y en otros canales de marketing.
 
 ### Planificación:
 
